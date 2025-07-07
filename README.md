@@ -4,7 +4,7 @@ A lightweight Windows application that allows you to instantly share files from 
 
 ## Download
 
-**[📥 Download Latest Release (Windows x64)](release-x64/sharefile.exe)**
+**[📥 Download Latest Release (Windows x64)](https://github.com/sheuronazxe/sharefile/raw/refs/heads/main/release-x64/sharefile.exe)**
 
 *No installation required - just download and run!*
 
