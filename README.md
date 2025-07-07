@@ -28,7 +28,7 @@ A lightweight Windows application that allows you to instantly share files from 
 
 ## Screenshots
 
-*The application shows your local IP address and allows you to set a custom port. When you drag a file, it switches to QR code mode for easy scanning.*
+![Demo of shareFile](demo/demo.gif)
 
 ## Requirements
 
